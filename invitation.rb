@@ -2,4 +2,4 @@
 
 # Try starting out with puts'ing a string.
 
-puts 
+puts "Whats your name?"
