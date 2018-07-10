@@ -3,4 +3,4 @@
 # Try starting out with puts'ing a string.
 
 puts "Dear guest_name"
-guest_name = Herm
+guest_name = Hermione 
