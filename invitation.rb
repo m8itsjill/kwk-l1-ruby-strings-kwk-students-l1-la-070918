@@ -3,4 +3,4 @@
 # Try starting out with puts'ing a string.
 
 puts "Whats your name?"
-name=
+name = gets 
