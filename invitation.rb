@@ -5,4 +5,4 @@
 puts "Whats your name?"
 name = gets 
 
-puts "Hello " 
+puts "Hello " + name + 
